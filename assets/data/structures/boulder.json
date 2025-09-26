@@ -1,0 +1,8 @@
+{
+    "probabilityOfGeneration":0.2,
+    "renderingOffset":[0,-1.8,0],
+    "renderedSize":"default",
+    "spawnRate":7,
+    "breakTime":1,
+    "placeTime":0.05
+}
