@@ -2,7 +2,7 @@
 
 ### A simple 2D rpg game inspired by Stardew Valley
 
----
+-
 
 ### Features:
 
